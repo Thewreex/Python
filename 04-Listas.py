@@ -57,4 +57,4 @@ print(mi_nueva_lista)
 mi_nueva_lista.sort() # Ordena de menor a mayor 
 print(mi_nueva_lista)
 
-print(mi_nueva_lista[1:4])
+print(mi_nueva_lista[1:4]) # Crea sublistas
