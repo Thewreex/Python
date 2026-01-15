@@ -72,6 +72,6 @@ print(lenguaje.capitalize()) # Deja la primera letra en mayuscula
 print(lenguaje.upper()) # Deja todo en mayuscula
 print(lenguaje.count("t")) # Cuenta cuantas veces se repite un caracter en la cadena
 print(lenguaje.isnumeric()) # Verifica si es numero entero
-print(lenguaje.lower()) # Pone toda la cena en minuscula
+print(lenguaje.lower()) # Pone toda la cadena en minuscula
 print(lenguaje.isupper()) # Verifica si esta en mayuscula
 print(lenguaje.startswith("py")) # Verifica si una cadena empieza con cierta cadena

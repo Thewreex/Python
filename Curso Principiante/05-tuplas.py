@@ -25,4 +25,6 @@ mi_tupla_lista[0] = "21"
 
 print(mi_tupla_lista)
 
-print(type(tuple(mi_tupla_lista)))
+print(type(tuple(mi_tupla_lista))) # Cambiar una lista a una tupla
+
+del mi_tupla # Borra la tupla
