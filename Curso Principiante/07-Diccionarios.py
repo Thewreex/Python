@@ -50,4 +50,4 @@ mi_lista = ["Nombre", "Empresa"]
 mi_nuevo_diccionario = dict.fromkeys((mi_lista)) 
 print(mi_nuevo_diccionario) # Crea un diccionario con los datos de una lista
 mi_nuevo_diccionario = dict.fromkeys(mi_lista, 1)
-print(mi_nuevo_diccionario)
+print(mi_nuevo_diccionario) # Crea el nuevo diccionario con un valor especifico

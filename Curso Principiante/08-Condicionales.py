@@ -47,6 +47,6 @@ if mi_cadena:
 if mi_cadena == "Cadena": # Verifica si 2 cadenas son iguales
     print("Las cadenas de texto coinciden")
 
-if not mi_cadena == "Casdena": # Verifica si 2 cadenas son iguales
-    print("Las cadenas de texto coinciden")
+if not mi_cadena == "Casdena": # Verifica si 2 cadenas No son iguales
+    print("Las cadenas de texto no coinciden")
 
