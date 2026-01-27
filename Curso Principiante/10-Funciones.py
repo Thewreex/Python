@@ -21,7 +21,7 @@ def print_name(name, surname, alias  = "Sin alias"): # Se le pueden agregar valo
 
 print_name("Juan", "Pablo", "JP")
 
-def print_textos(*text):
+def print_textos(*text): # El asterisco permite ingresar infinitos elementos a la funcion como lista
     print(text)
 
 print_textos("Hola", "Python", "JP")
