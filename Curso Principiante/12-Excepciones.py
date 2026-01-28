@@ -33,5 +33,5 @@ except TypeError: # tambien podemos definir excepciones segun tipo de error, en 
 except NameError as error: # con as error, se puede crear una variable que almacena la informacion del error
     print("Se genero un error NameError") 
     print(error) # Como el codigo del try da NameError, entonces sera ejecutada esta excepcion, haciendo print a la variable que almacena informacion del error
-except Exception as error:
+except Exception as error: 
     print(error)
