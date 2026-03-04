@@ -230,27 +230,6 @@ TEMAS INVOLUCRADOS: Funciones, módulos (random), strings, tuplas, bucles
 
 
 
-# ============================================================================
-# EJERCICIO 10: CALCULADORA DE FECHAS
-# ============================================================================
-"""
-OBJETIVO: Crear un programa que calcule diferencias entre fechas.
-
-REQUISITOS:
-- Usar el módulo datetime
-- Solicitar al usuario una fecha de nacimiento (día, mes, año)
-- Calcular cuántos días ha vivido la persona
-- Calcular cuántos días faltan para su próximo cumpleaños
-- Determinar qué día de la semana nació
-- Mostrar toda la información de forma clara y formateada
-- Usar try/except para manejar fechas inválidas
-
-TEMAS INVOLUCRADOS: Módulos (datetime), variables, operadores, excepciones, strings
-"""
-
-# Tu código aquí:
-
-
 
 
 # ============================================================================
